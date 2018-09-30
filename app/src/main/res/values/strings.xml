@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Feedback Mechanism</string>
+    <string name="msg">Welcome Empployee</string>
+    <string name="Open">Navbar</string>
+    <string name="Close">Navbar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment1">Tab1</string>
+    <string name="hello_blank_fragment2">Tab2</string>
+</resources>
